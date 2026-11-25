@@ -2,11 +2,14 @@
 
 Writes a single original office joke (one line, 1-200 characters) to
 /output/entry.txt. Deterministic, no network, no randomness.
+
+Round 2: the 15-minute standup — everyone stands up just to report
+they are still sitting on the same task.
 """
 
 import os
 
-ENTRY = "The office printer only jams when I'm in a hurry — I'm convinced it can smell deadlines the way dogs smell fear."
+ENTRY = "Our 15-minute standup is just everyone standing up to say they are still sitting on the same task."
 
 
 def main() -> None:
