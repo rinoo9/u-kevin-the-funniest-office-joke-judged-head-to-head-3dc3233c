@@ -6,9 +6,9 @@
 
 Entry for the make.fun bounty "The Funniest Office Joke, Judged Head to Head": a single original office joke, one line.
 
-> "The office printer only jams when I'm in a hurry — I'm convinced it can smell deadlines the way dogs smell fear."
+> "Our 15-minute standup is just everyone standing up to say they are still sitting on the same task."
 
-The entry line is 112 characters long.
+The entry line is 98 characters long.
 
 ## Run
 
